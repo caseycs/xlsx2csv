@@ -1,0 +1,13 @@
+{
+    "name": "dilshod/xlsx2csv",
+    "type": "library",
+    "description": "Composer wrapper to python xlsx to csv converter",
+    "keywords": ["xls", "excel", "parser", "python", "wrapper"],
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Dilshod Temirkhodjaev",
+            "email": "tdilshod@gmail.com"
+        }
+    ]
+}
